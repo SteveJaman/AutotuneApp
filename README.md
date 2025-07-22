@@ -6,6 +6,12 @@
 
 
 
+\*\*GitHub link if you want to download all the files to the project\*\*
+\*\*https://github.com/SteveJaman/AutotuneApp.git\*\*
+---
+
+
+
 ### Application Overview:
 
 The "Live" Autotune application applies an autotune effect to audio files, correcting their pitch to align with a specified musical scale. It features a graphical user interface (GUI) for easy interaction and provides visual feedback through spectrum plots of the original and autotuned audio.
@@ -103,8 +109,4 @@ The "Live" Autotune application applies an autotune effect to audio files, corre
   \* This application is designed as an offline processing tool due to the computational demands of high-fidelity audio manipulation. It does not perform real-time autotuning.
 
   \* The application is a standalone executable and does not require Python to be installed on your system to run.
-
-
-
-
 
